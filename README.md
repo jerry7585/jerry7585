@@ -8,7 +8,7 @@ I've been learning code for 3 years now, I am a Computer Engineering major at St
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [jerrysu.nyc@gmail.com](mailto:jerrysu.nyc@gmail.com)
-* 🧠  I'm learning Python and Javascript
+* 🧠  I prefer programming in Java. I am currently learning Python and C++.
 * 🤝  I'm open to collaborating on interesting projects which include the stock market
 * ⚡  In my free time I enjoy going to the gym to make sure I maintain a healthy lifestyle, spend time with my family as much as I can before I am not allowed this privilege anymore. I am also very into finance, ex: Stock Market.
 
