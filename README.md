@@ -28,6 +28,4 @@ I've been learning code for 3 years now, I am a Computer Engineering major at St
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jerry7585" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jerrysunyc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Support Me
 
-<a href="https://www.buymeacoffee.com/jerrysu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
