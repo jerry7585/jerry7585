@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerry Su
 ================================================================================================================================
 
-Aspiring Software Engineer
+Software Engineer at General Motors, TRACK Program
 --------------------------
 
-I've been learning code for 5 years now, I am a Computer Engineering major at Stony Brook University but after taking many of my required courses, which included coding and hardware, I realized that I really enjoyed the software portion way more than the hardware. Because of this I've decided to take more non-required programming classes and study on my own free time learning as much as I can about the field, with a focus on making it my career path.
+I've been learning code for 5 years now, I am a Software Engineer at General Motors on their TRACK Program! I was a Computer Engineering major at Stony Brook University but after taking many of my required courses, which included coding and hardware, I realized that I really enjoyed the software portion way more than the hardware. Because of this I've decided to take more non-required programming classes and study on my own free time learning as much as I can about the field, with a focus on making it my career path.
 
-* 🌍  I'm based in New York
+* 🌍  I'm living in Michigan
 * ✉️  You can contact me at [jerrysu.nyc@gmail.com](mailto:jerrysu.nyc@gmail.com)
 * 🧠  I am proficient in Java, C, C++.
 * 🤝  I'm open to collaborating on interesting projects which include the stock market and open source projects.
