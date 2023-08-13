@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at General Motors, TRACK Program
 --------------------------
 
-I've been learning code for 5 years now, I am a Software Engineer at General Motors on their TRACK Program! I was a Computer Engineering major at Stony Brook University but after taking many of my required courses, which included coding and hardware, I realized that I really enjoyed the software portion way more than the hardware. Because of this I've decided to take more non-required programming classes and study on my own free time learning as much as I can about the field, with a focus on making it my career path.
+I am a Software Engineer at General Motors on their TRACK Program! I was a Computer Engineering major at Stony Brook University but after taking many of my required courses, which included coding and hardware, I realized that I really enjoyed the software portion way more than the hardware. Because of this I've decided to take more non-required programming classes and study on my own free time learning as much as I can about the field, with a focus on making it my career path. You can visit my personal portfolio website here: [Visit My Personal Website](https://jerrysucode.com)!
 
-* 🌍  I'm living in Michigan
+* 🌍  I'm currently living in Michigan, originally from New York(had to move for new job).
 * ✉️  You can contact me at [jerrysu.nyc@gmail.com](mailto:jerrysu.nyc@gmail.com)
-* 🧠  I am proficient in Java, C, C++.
-* 🤝  I'm open to collaborating on interesting projects which include the stock market and open source projects.
-* ⚡  In my free time I enjoy going to the gym to make sure I maintain a healthy lifestyle, spend time with my family as much as I can before I am not allowed this privilege anymore. I am also very into finance, ex: Stock Market.
+* 🧠  I am mainly use Java and am trying to learn Python/Javascript/Typescript on my free time.
+* 🤝  I'm open to collaborating on interesting projects, specifically open source projects related to web dev.
+* ⚡  In my free time I enjoy going to the gym to make sure I maintain a healthy lifestyle, spend time with my family as much as I can before I am not allowed this privilege anymore. I am also very into finance, ex: Investing.
 
 ### Skills
 
